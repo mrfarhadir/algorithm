@@ -5,4 +5,4 @@ Solving some sort of interesting algorithms
 
 | Language | File |
 | ------ | ------ |
-| JavaScript | [https://github.com/mrfarhadir/algorithm/tree/master/TapeEquilibrium] |
+| JavaScript | https://github.com/mrfarhadir/algorithm/tree/master/TapeEquilibrium |

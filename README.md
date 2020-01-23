@@ -1,4 +1,4 @@
-# algorithm
+# Algorithm
 Solving some sort of interesting algorithms
 
 ## TapeEquilibrium

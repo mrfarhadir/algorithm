@@ -5,4 +5,4 @@ Solving some sort of interesting algorithms
 
 | Language | File |
 | ------ | ------ |
-| JavaScript | [TapeEquilibrium/solve.js] |
+| JavaScript | [TapeEquilibrium/solve.js][PlDb] |
